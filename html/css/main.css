@@ -741,6 +741,9 @@ div.review-img img {
 /*section gallery end*/
 
 /*section extra*/
+#extra {
+    background: grey;
+}
 #extra>main {
     padding: 30px 0;
 }
@@ -750,6 +753,7 @@ div.review-img img {
     border: 1px solid #0e4e95;
     padding: 30px;
     border-radius: 0 10px 10px 0;
+    margin: 0 auto;
 }
 .extra-slide header {
     display: table;
